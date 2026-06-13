@@ -2,14 +2,6 @@
 
 Seja bem-vindo(a) ao meu perfil! Aqui eu trilho meu caminho no universo da tecnologia.
 
-## 🎓 Sobre Mim
- 🌐 Minha jornada na tecnologia começou na faculdade, onde me apaixonei pelo **Desenvolvimento Web**. <br>
-🧠 Constantemente explorando novas tecnologias, arquiteturas de software e construindo aplicações.
-
-## 🛠️ No que venho trabalhando
-💻Desenvolvimento de interfaces.<br>
-🔎Integração de ecossistemas frontend com serviços de backend e APIs.
-
 ---
 
 ### 🔡 Linguagens e Tecnologias
