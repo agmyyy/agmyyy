@@ -73,16 +73,5 @@ Seja bem-vindo(a) ao meu perfil! Aqui eu trilho meu caminho no universo da tecno
 />
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agmyyy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
